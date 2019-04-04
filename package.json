@@ -1,0 +1,26 @@
+{
+  "name": "tslint-og",
+  "version": "0.0.1",
+  "description": "TSLint preset rules",
+  "main": "./tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogoo/tslint.git"
+  },
+  "keywords": [
+    "tslint",
+    "google",
+    "eslint",
+    "ts"
+  ],
+  "author": "Colin Ogoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cogoo/tslint/issues"
+  },
+  "homepage": "https://github.com/cogoo/tslint#readme",
+  "devDependencies": {
+    "git-cz": "^3.0.1",
+    "tslint": "^5.15.0"
+  }
+}
