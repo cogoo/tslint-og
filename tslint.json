@@ -117,7 +117,7 @@
       "allow-static-only",
       "allow-empty-class"
     ],
-    "prefer-readonly": true,
+    "prefer-readonly": false,
     "adjacent-overload-signatures": true,
     "unified-signatures": true,
     "prefer-function-over-method": [true, "allow-public", "allow-protected"],
